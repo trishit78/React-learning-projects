@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.minus{
+  color:red
+}
+
+.plus{
+  color:green
+}
